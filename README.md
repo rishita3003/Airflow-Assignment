@@ -1,5 +1,5 @@
 ## Install and Setup the airflow environment following the 2 links below : 
-(DO EVERYTHING IN THE AIRFLOW ENV)
+### (DO EVERYTHING IN THE AIRFLOW ENV) 
 https://medium.com/@tristian_56632/installing-apache-airflow-on-windows-using-wsl-771e803762c9 
 https://medium.com/accredian/setting-up-apache-airflow-in-windows-using-wsl-dbb910c04ae0
 
