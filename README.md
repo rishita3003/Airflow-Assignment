@@ -15,3 +15,8 @@ echo 'export AIRFLOW_HOME=/home/rishita/airflow' >> ~/.bashrc
 source ~/.bashrc
 ```
 
+## To run the airflow webserver and scheduler
+```bash
+./run.sh
+```
+
